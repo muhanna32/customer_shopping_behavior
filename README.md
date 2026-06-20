@@ -131,6 +131,7 @@ This project analyzes **3,900 customer shopping records** to uncover purchasing 
 
 ---
 
-## 👤 Author
+## 🖼️ Dashboard Preview
 
-Data Analytics Portfolio Project
+![Customer Behavior Dashboard](Dashboard.png)
+
